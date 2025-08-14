@@ -3,6 +3,7 @@ import java.util.Date;
 import java.awt.Point;
 
 public class VariableTypes {
+    @SuppressWarnings("unused")
     public static void main(String[] args){
         //Primitive type variables
         byte age = 40;
